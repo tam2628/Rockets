@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a663dfab591a890439320b3cebbf0765, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  itemId: shield
+  itemPrice: 10
+  itemName: Shield
+  itemDescription: Protects the player from one collision
+  itemOnlyBoughtOnce: 0
+  itemImage: {fileID: 21300000, guid: a9d92b60b07f65049842410a52ddffd7, type: 3}
+  itemPrefab: {fileID: 0}
+  powerUpAtStart: 1
+  autoEquipable: 1

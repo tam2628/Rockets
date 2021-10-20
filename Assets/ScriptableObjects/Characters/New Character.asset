@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5147c32f8e95d494d88d876dc3d40a64, type: 3}
+  m_Name: New Character
+  m_EditorClassIdentifier: 
+  id: spaceship
+  characterType: Spaceship
+  characterPrefab: {fileID: 8273630263927970728, guid: f87b9bd576f38db40abe211fcc85817c,
+    type: 3}
+  charcterBackgroundMaterial: {fileID: 2100000, guid: 762fc19d970194145babfb4daf3eeb44,
+    type: 2}
